@@ -1,0 +1,3 @@
+C:/Users/rizam/CLionProjects/projeodevi/cmake-build-debug/CMakeFiles/projeodevi.dir
+C:/Users/rizam/CLionProjects/projeodevi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rizam/CLionProjects/projeodevi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
